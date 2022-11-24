@@ -1,2 +1,4 @@
 utils/.env
 .idea/
+.venv/
+.gitignore
